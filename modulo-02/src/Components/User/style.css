@@ -1,0 +1,12 @@
+.user {
+  width: 75%;
+  max-width: 600px;
+  background-color: #a8dadc;
+  padding: 3rem 1rem;
+  border-radius: 1rem;
+  border: 3px solid #457b9d;
+}
+
+.user__name{
+  text-align: center;
+}
