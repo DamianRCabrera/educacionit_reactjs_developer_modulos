@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import Ejercicio1 from './Components/Ejercicio1/index.jsx';
+import Ejercicio1 from './Components/Ejercicio1y2/index.jsx';
 
 function App() {
   return (
